@@ -1,12 +1,5 @@
-# React Three Fiber - WebGPU Starter
+# R3F Lenticular Material
 
-Build WebGPU Apps with Three.js & React Three Fiber
+[Demo](https://lenticular.wawasensei.dev) - [Video tutorial](https://youtu.be/U4OjVL5NE3A) - [3D AI Studio](https://www.3daistudio.com/)
 
-```
-yarn
-yarn dev
-```
-
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
-
-> Learn more about WebGPU and how to use it with Three.js and React Three Fiber with [React Three Fiber: The Ultimate Guide to 3D Web Development](https://wawasensei.dev/courses/react-three-fiber)
+<img width="1920" height="1080" alt="r3f-lenticular-thumbnail" src="https://github.com/user-attachments/assets/fe11db4d-b063-4aa1-b9de-e5fbee343ad8" />
